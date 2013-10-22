@@ -30,7 +30,7 @@
 //#define   BOOT1_DEBUG
 #define   SCRIPT_INSTALL_EARLY
 #define   SPEED_UP_BOOT
-#define   CONFIG_LOAD_BOOTIMG
+//#define   CONFIG_LOAD_BOOTIMG
 
 //#define  FORCE_BOOT_STANDBY
 //#define  CONFIG_AW_HOMELET_PRODUCT
